@@ -20,9 +20,6 @@
     "memory",
     "disk",
     "localip",
-    "battery",
-    "poweradapter",
-    "locale",
     "break",
   ]
 }
