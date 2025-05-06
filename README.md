@@ -1,6 +1,6 @@
 # Archyboi Dotfiles
 
-My dotfiles for my main purpose
+My dotfiles for my main computer.
 
 Mostly just for customization purposes (and for my aliases)
 
