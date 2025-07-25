@@ -13,6 +13,8 @@ PS1='[\u@\h \W]\$ '
 fastfetch
 alias archvm='ssh -p 1414 sp33dy905@10.147.17.137'
 alias pihole='ssh karlo@10.0.0.29'
+alias opti-pihole='ssh root@10.0.0.39'
+alias lb-pihole='ssh karlo@10.0.0.49'
 alias bigboi='ssh root@10.0.0.180 -p 1523'
 alias littleboi='ssh root@10.0.0.185 -p 1523'
 alias mac='/mnt/1TB/OneClick-macOS-Simple-KVM/basic.sh'
