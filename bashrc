@@ -19,6 +19,8 @@ alias bigboi='ssh root@10.0.0.180 -p 1523'
 alias littleboi='ssh root@10.0.0.185 -p 1523'
 alias mac='/mnt/1TB/OneClick-macOS-Simple-KVM/basic.sh'
 alias sshgit='ssh -T git@github.com'
+alias proxy='ssh root@npm.sp33dyboi.xyz -p 4252'
+alias up='ssh root@up.sp33dyboi.xyz -p 2252'
 
 # Created by `pipx` on 2023-06-10 13:18:52
 export PATH="$PATH:/home/karlo/.local/bin"
